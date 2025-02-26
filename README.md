@@ -28,6 +28,9 @@ This project performs **Exploratory Data Analysis (EDA)** on earthquake data fro
 ## **How to Use This Project**  
 Simply open and run the provided **Jupyter Notebook or Python script** to explore the dataset and generate insights.  
 
+## **License**
+📜 MIT License :
+
 ## **Contact**  
 📩 Feel free to reach out if you have questions or suggestions!
 🔗 GitHub: your-github-profile
