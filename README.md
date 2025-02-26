@@ -23,47 +23,11 @@ This project performs **Exploratory Data Analysis (EDA)** on earthquake data fro
 
 ## **Technologies Used**  
 🔹 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-🔹 **Data Visualization** (Bar plots, Count plots, Line charts, Heatmaps)  
+🔹 **Data Visualization** (Bar plots, Count plots, Line charts, Heatmaps) 
 
-## **Installation & Usage**  
-1️⃣ Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/earthquake-eda.git
-   cd earthquake-eda
-   ```  
-2️⃣ Install dependencies:  
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```  
-3️⃣ Run the analysis script:  
-   ```bash
-   python earthquake_analysis.py
-   ```  
+## **How to Use This Project**  
+Simply open and run the provided **Jupyter Notebook or Python script** to explore the dataset and generate insights.  
 
-## **Project Structure**  
-```
-📂 earthquake-eda  
-│-- 📄 earthquake_analysis.py  # Main analysis script  
-│-- 📄 dataset.csv              # Earthquake dataset (replace with actual file name)  
-│-- 📄 README.md                # Project documentation  
-```  
-
-## **Results & Visualizations**  
-Sample visualizations include:  
-📊 **Yearly earthquake trends**  
-📊 **Most affected countries**  
-📊 **Magnitude distribution by region**  
-
-## **Future Work**  
-🚀 Implement machine learning models for earthquake prediction.  
-🚀 Enhance data preprocessing and outlier handling.  
-🚀 Add real-time earthquake monitoring & analysis.  
-
-## **Contributing**  
-Feel free to contribute by reporting issues or suggesting improvements!  
-
-## **License**  
-📜 MIT License  
-
----  
-Let me know if you want any modifications! 🚀
+## **Contact**  
+📩 Feel free to reach out if you have questions or suggestions!
+🔗 GitHub: your-github-profile
