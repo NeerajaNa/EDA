@@ -4,7 +4,7 @@
 This project performs **Exploratory Data Analysis (EDA)** on earthquake data from **1995 to 2023** to identify trends, patterns, and insights into earthquake occurrences worldwide.  
 
 ## **Dataset**  
-- **Source:** [Specify if public dataset]  
+- **Source:** Kaggle  
 - **Time Period:** 1995 - 2023  
 - **Features:** Date, Time, Location, Magnitude, Depth, Country, etc.  
 
