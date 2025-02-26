@@ -32,5 +32,4 @@ Simply open and run the provided **Jupyter Notebook or Python script** to explor
 📜 MIT License : https://github.com/NeerajaNa/EDA/blob/main/LICENSE
 
 ## **Contact**  
-Feel free to reach out if you have questions or suggestions!
-🔗 GitHub: your-github-profile
+🔗 GitHub: https://github.com/NeerajaNa
